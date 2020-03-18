@@ -14,7 +14,7 @@
     </parent>
     <groupId>kamil.gaborek</groupId>
     <artifactId>pet-clinic-spring-boot</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>pet-clinic-spring-boot</name>
     <description>Demo project for Spring Boot as pet clinic</description>
 
@@ -40,6 +40,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/kamilgaborek/pet-clinic-spring-boot.git</developerConnection>
-      <tag>pet-clinic-spring-boot-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
